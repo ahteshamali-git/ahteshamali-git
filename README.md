@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Ahtesham Ali - SoftLink Enterprise" width="100%" />
-</p>
 
 # Hi there, I'm Ahtesham Ali 👋
 
@@ -22,8 +19,7 @@ I cover the full product lifecycle,  from backend architecture and database engi
 
 ---
 <p align="center">
-  <img src="banner.svg![Uploading banner.svg…]()
-" alt="Ahtesham Ali - SoftLink Enterprise" width="100%" />
+ !<img width="1600" height="400" alt="banner (1)" src="https://github.com/user-attachments/assets/22ae24b9-e3cd-41ea-b5de-dc8bded3b301" />
 </p>
 
 
