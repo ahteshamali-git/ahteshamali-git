@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Ahtesham Ali - SoftLink Enterprise" width="100%" />
+</p>
+
 # Hi there, I'm Ahtesham Ali 👋
 
 **Senior Full-Stack Engineer & Founder of SoftLink Enterprise**
@@ -10,7 +14,18 @@ I cover the full product lifecycle,  from backend architecture and database engi
   <a href="mailto:ahtesham.ali@softlinkenterprise.com"><img src="https://img.shields.io/badge/Email-ahtesham.ali%40softlinkenterprise.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Experience-9%2B%20Years-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Projects-100%2B%20Delivered-00B4A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Returning%20Clients-97%25-F5A623?style=flat-square" />
+</p>
+
 ---
+<p align="center">
+  <img src="banner.svg![Uploading banner.svg…]()
+" alt="Ahtesham Ali - SoftLink Enterprise" width="100%" />
+</p>
+
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -29,6 +44,13 @@ I cover the full product lifecycle,  from backend architecture and database engi
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br />Firebase</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />Git</td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br />HTML5</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br />CSS3</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /><br />jQuery</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" /><br />WordPress</td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/-Odoo-714B67?style=flat-square" width="48" height="48" alt="Odoo" /><br />Odoo</td>
+  </tr>
 </table>
 
 ---
@@ -37,9 +59,10 @@ I cover the full product lifecycle,  from backend architecture and database engi
 
 - 📱 **Cross-Platform Mobile App Development**  : end-to-end iOS & Android apps from a single Flutter codebase
 - ⚙️ **Complete Business App Ecosystems**  : customer apps, provider/driver apps, and web admin dashboards working together
-- 🏢 **Enterprise Systems (ERP/CRM)**  : custom backends with optimized databases, multi-tier access control, and automated workflows
+- 🏢 **Enterprise Systems (ERP/CRM)**  : custom backends with optimized databases, multi-tier access control, and automated workflows, including Odoo customization
+- 🌐 **Website Development**  : responsive business sites and WordPress builds using HTML, CSS, JavaScript, jQuery, and PHP
 - 🔌 **Robust API Engineering**  : secure, high-speed REST APIs bridging server logic and mobile front-ends
-- 🤖 **AI-Powered App Integrations**  : OpenAI/Gemini-driven features, in-app monetization, and analytics
+- 🤖 **AI-Powered App Integrations**  : OpenAI/Gemini-driven chatbots, in-app monetization, and analytics
 
 ---
 
@@ -50,7 +73,10 @@ I cover the full product lifecycle,  from backend architecture and database engi
 | 🎬 **Streamit,  Movie Streaming App** | High-performance video streaming app with responsive layout, fluid animations, and third-party media API integrations | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | 🛍️ **E-Commerce Ecosystem** | Production-ready retail app with clean state management, persistent cart, dynamic filtering, and payment gateway integration | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) |
 | 💬 **Real-Time Chat Engine** | Messaging app with real-time sync, media sharing, background caching, and instant push notifications | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| 🤖 **AI Chatbot Integration** | Conversational assistants embedded into client websites and apps for support and lead capture | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square) |
 | 📈 **Enterprise Management Dashboard** | Multi-tenant ERP/CRM panel with role-based auth, custom reporting, and heavy database schemas | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| 📊 **SRP CRM (Odoo)** | Custom CRM built on Odoo with tailored modules, automated sales pipelines, and workflows mapped to the client's sales process | ![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square) |
+| 🌐 **Business & WordPress Websites** | Responsive business sites, landing pages, and custom WordPress themes/plugins | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
 | 🧺 **Cleandense,  Laundry Management Ecosystem** | Full ecosystem: customer app, driver app, admin dashboard, and backend APIs for on-demand laundry service | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
 
 ---
@@ -90,5 +116,5 @@ I cover the full product lifecycle,  from backend architecture and database engi
 ## 📬 Let's Build Something Great
 
 - 🌐 **Company:** [softlinkenterprise.com](https://softlinkenterprise.com)
-- 💼 **LinkedIn:**(https://www.linkedin.com/in/ahtesham-ali-91b88041b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- 💼 **LinkedIn:** [ahtesham-ali](https://www.linkedin.com/in/ahtesham-ali-91b88041b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - 📧 **Email:** ahtesham.ali@softlinkenterprise.com
